@@ -80,8 +80,7 @@ Considerando que o mês ja foi finalizado, o aumento no total de visitas, vendas
 
 
 **Conclusão Executiva:**
-```
+
 A análise mostra variações positivas na quantidade de visitas, taxa de conversão, quantidade de vendas e receita bruta. Esses valores indicam um crescimento na empresa. 
 
 Porém ao analisar as outras métricas, temos um cenário preocupante. As variações de valores de custo de aquisição, custo por lead e valor de ROI indicam que o custo de investimento para crescimento da empresa aumentou muito.
-```
